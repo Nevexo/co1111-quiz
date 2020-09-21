@@ -39,5 +39,12 @@
             "Nothing's impossible"
         ],
         "correct_answer": "Told you, it's impossible."
+    },
+    {
+        "question": "what is the meaning of life the universe and everything?",
+        "answers": [
+            "42"
+        ],
+        "correct_answer": "42"
     }
 ]
