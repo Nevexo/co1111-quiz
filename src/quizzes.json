@@ -5,12 +5,12 @@
         "questions": 8
     },
     {
-        "friendly_name": "UCLan Quiz",
+        "friendly_name": "UCLan Trivia",
         "fqn": "uclanQuiz",
         "questions": 3
     },
     {
-        "friendly_name": "Test Quiz",
+        "friendly_name": "Test/Demo Questions",
         "fqn": "testQuiz",
         "questions": 3
     }
