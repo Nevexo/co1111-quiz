@@ -1,2 +1,4 @@
-# co1111-quiz
-This repo contains questions &amp; answers for a simple quiz app made for a University project.
+# Ignore this repo
+It only has a few JSON files for a University project & will be deleted in the near future.
+
+... as you were.
