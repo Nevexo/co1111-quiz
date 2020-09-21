@@ -1,0 +1,12 @@
+[
+    {
+        "question": "Test",
+        "answers": [
+            "Correct Answer",
+            "Wrong Answer 1",
+            "Wrong Answer 2",
+            "Wrong Answer 3"
+        ],
+        "correct_answer": "Correct Answer"
+    }
+]

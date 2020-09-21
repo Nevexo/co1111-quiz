@@ -1,0 +1,42 @@
+[   
+    {
+        "question": "Which city is the capital of the UK?",
+        "answers": [
+            "Birmingham",
+            "London",
+            "Preston",
+            "Nottingham"
+        ],
+        "correct_answer": "London"
+    },
+    {
+        "question": "How many rings are on the Olympic flag?",
+        "answers": [
+            "5",
+            "4",
+            "7",
+            "2"
+        ],
+        "correct_answer": "5"
+    },
+    {
+        "question": "How many holes does a standard bowling ball have?",
+        "answers": [
+            "2",
+            "5",
+            "4",
+            "0"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "Which city in the UK had the first KFC?",
+        "answers": [
+            "London",
+            "Lancaster",
+            "Preston",
+            "Nottingham"
+        ],
+        "correct_answer": "Preston"
+    }
+]
