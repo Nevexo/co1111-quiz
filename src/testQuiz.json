@@ -1,0 +1,32 @@
+[
+    {
+        "question": "Test",
+        "answers": [
+            "Correct Answer",
+            "Wrong Answer 1",
+            "Wrong Answer 2",
+            "Wrong Answer 3"
+        ],
+        "correct_answer": "Correct Answer"
+    },
+    {
+        "question": "Is this the best quiz?",
+        "answers": [
+            "Yes",
+            "Yes",
+            "Yes",
+            "Yes"
+        ],
+        "correct_answer": "Yes"
+    },
+    {
+        "question": "It's impossible to get this question correct.",
+        "answers": [
+            "I bet I can do it",
+            "It can't be!",
+            "Impossible is a relative term",
+            "Nothing's impossible"
+        ],
+        "correct_answer": "Told you, it's impossible."
+    }
+]

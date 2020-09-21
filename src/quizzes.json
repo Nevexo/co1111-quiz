@@ -2,11 +2,16 @@
     {
         "friendly_name": "General Knowledge",
         "fqn": "generalKnowledge",
-        "questions": 4
+        "questions": 8
     },
     {
-        "friendly_name": "Geography Quiz",
-        "fqn": "geographyQuiz",
-        "questions": 1
+        "friendly_name": "UCLan Quiz",
+        "fqn": "uclanQuiz",
+        "questions": 3
+    },
+    {
+        "friendly_name": "Test Quiz",
+        "fqn": "testQuiz",
+        "questions": 3
     }
 ]

@@ -1,0 +1,31 @@
+[
+    {
+        "question": "Which road is the C&T building on?",
+        "answers": [
+            "Moor Lane",
+            "Aquaduct Street",
+            "Fylde Road",
+            "Ashmoor Street"
+        ],
+        "correct_answer": "Fylde Road"
+    },
+    {
+        "question": "Where is The I Located?",
+        "answers": [
+            "C&T Building",
+            "Harris Building",
+            "Allen Building",
+            "The Library"
+        ],
+        "correct_answer": "The Library"
+    },
+    {
+        "question": "What is 'The Atrium'",
+        "answers": [
+            "Student Support",
+            "A Cafe",
+            "Nursing course building"
+        ],
+        "correct_answer": "A Cafe"
+    }
+]

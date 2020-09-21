@@ -25,7 +25,7 @@
             "2",
             "5",
             "4",
-            "0"
+            "3"
         ],
         "correct_answer": "3"
     },
@@ -38,5 +38,45 @@
             "Nottingham"
         ],
         "correct_answer": "Preston"
+    },
+    {
+        "question": "Which country eats the most chocolate (per capita)?",
+        "answers": [
+            "The United States of America",
+            "United Kingdom",
+            "France",
+            "Switzerland"
+        ],
+        "correct_answer": "Switzerland"
+    },
+    {
+        "question": "Which of these is the smallest unit of memory?",
+        "answers": [
+            "byte",
+            "bit",
+            "nibble",
+            "kilobyte"
+        ],
+        "correct_answer": "bit"
+    },
+    {
+        "question": "What does BMW stand for?",
+        "answers": [
+            "British Motor Works",
+            "Bavarian Motor Works",
+            "Broken Indicators",
+            "Big Machine Woo!"
+        ],
+        "correct_answer": "Bavarian Motor Works"
+    },
+    {
+        "question": "How many hearts does an octopus have?",
+        "answers": [
+            "1",
+            "0",
+            "3",
+            "8"
+        ],
+        "correct_answer": "3"
     }
 ]
