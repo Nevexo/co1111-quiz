@@ -1,0 +1,73 @@
+[
+    {
+        "question": "Which of the following is the lowest-level language?",
+        "answers": [
+            "Python",
+            "C",
+            "Rust",
+            "Assembly"
+        ],
+        "correct_answer": "Assembly"
+    },
+    {
+        "question": "What is a 'built-in' function?",
+        "answers": [
+            "A command-word, such as 'if'",
+            "A function included with the language",
+            "A function created by the programmer",
+            "A function from the operating system"
+        ],
+        "correct_answer": "A function included with the language"
+    },
+    {
+        "question": "Which language is best for low-power embedded systems?",
+        "answers": [
+            "C",
+            "JavaScript",
+            "Visual Basic",
+            "Lua"
+        ],
+        "correct_answer": "C"
+    }, 
+    {
+        "question": "What is garbage collection?",
+        "answers": [
+            "Something the council do",
+            "A function to close the program",
+            "A system that frees nolonger required memory space",
+            "A system that deletes old temporary files",
+            "A system designed for novice programmers"
+        ],
+        "correct_answer": "A system that frees nolonger required memory space"
+    }, 
+    {
+        "question": "Which company created the TypeScript language?",
+        "answers": [
+            "Google",
+            "Microsoft",
+            "Pied Piper",
+            "JetBrains"
+        ],
+        "correct_answer": "Microsoft"
+    },
+    {
+        "question": "Which company created middle-out compression?",
+        "answers": [
+            "Pied Piper",
+            "New Piped Piper",
+            "Aviato",
+            "Hooli"
+        ],
+        "correct_answer": "Pied Piper"
+    },
+    {
+        "question": "What is type safety?",
+        "answers": [
+            "Checking for typos in code",
+            "Ensuring datatypes match between variables/methods",
+            "Reducing the chance of injury while using a computer",
+            "Re-reading your code to make sure datatypes match"
+        ],
+        "correct_answer": "Ensuring datatypes match between variables/methods"
+    }
+]

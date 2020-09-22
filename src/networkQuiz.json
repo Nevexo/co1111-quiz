@@ -1,0 +1,81 @@
+[
+    {
+        "question": "What is Wi-Fi?",
+        "answers": [
+            "A wireless communications standard",
+            "Another name for the internet",
+            "Mind control",
+            "A packet-encryption standard"
+        ],
+        "correct_answer": "A wireless communications standard"
+    }, 
+    {
+        "question": "What do network switches do that hubs don't?",
+        "answers": [
+            "Remember where devices are physically connected",
+            "Play video games",
+            "Allow multi-cast traffic",
+            "Detect malware flowing through the network"
+        ],
+        "correct_answer": "Remember where devices are physically connected"
+    },
+    {
+        "question": "Which is the fastest 802.11 (Wi-Fi) standard?",
+        "answers": [
+            "802.11a",
+            "802.11ac",
+            "802.11ax",
+            "802.11g"
+        ],
+        "correct_answer": "802.11ax"
+    },
+    {
+        "question": "What does 'TTL' stand for?",
+        "answers": [
+            "Time to Live",
+            "Transmission Total Ledger",
+            "Tactical Transmissions Logs"
+        ],
+        "correct_answer": "Time to Live"
+    },
+    {
+        "question": "What is a bogon prefix?",
+        "answers": [
+            "A scam IP address that has been blocked",
+            "An IP address that is used for educational purposes",
+            "A list of internal-only IP addresses",
+            "Invalid IP addresses"
+        ],
+        "correct_answer": "A list of internal-only IP addresses"
+    },
+    {
+        "question": "What is Ethernet?",
+        "answers": [
+            "A type of cable",
+            "A family of networking standards",
+            "A simplex communication standard",
+            "A packet handling system"
+        ],
+        "correct_answer": "A family of networking standards"
+    },
+    {
+        "question": "What are OSPF, BGP and RIP?",
+        "answers": [
+            "Types of Wi-Fi",
+            "Older versions of Ethernet",
+            "Routing protocols",
+            "Switching protocols"
+        ],
+        "correct_answer": "Routing protocols"
+    },
+    {
+        "question": "What is Power-over-Ethernet (PoE)",
+        "answers": [
+            "A technology used to power downstream network equipment",
+            "A system used to charge your laptop over ethernet",
+            "A high-speed version of Ethernet",
+            "Sending packets over the mains electrical system"
+        ],
+        "correct_answer": "A technology used to power downstream network equipment"
+    }
+]
