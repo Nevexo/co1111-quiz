@@ -28,11 +28,5 @@
         "fqn": "testQuiz",
         "questions": 3,
         "description": "This quiz is for testing purposes only, it has questions that try to break the app."
-    },
-    {
-	"friendly_name": "Try and break it",
-	"fqn": "someInvalidQuizFQN",
-	"questions": 3,
-	"description": "Don't use this quiz"
     }
 ]
