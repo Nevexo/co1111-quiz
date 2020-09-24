@@ -27,6 +27,6 @@
         "friendly_name": "Test/Demo Questions",
         "fqn": "testQuiz",
         "questions": 3,
-        "description": "This quiz is only for testing purpose, it has questions that try to break the app."
+        "description": "This quiz is only for testing purposes only, it has questions that try to break the app."
     }
 ]
