@@ -3,7 +3,7 @@
         "friendly_name": "General Knowledge",
         "fqn": "generalKnowledge",
         "questions": 10,
-        "description": "This quiz has various general knowledge questions, some specific to the Preston area"
+        "description": "This quiz has various general knowledge questions, some specific to the Preston area."
     },
     {
         "friendly_name": "Programming Skills",
@@ -15,7 +15,7 @@
         "friendly_name": "Networking Terminology",
         "fqn": "networkQuiz",
         "questions": 8,
-        "description": "This quiz has various questions about different networking concepts & technologies"
+        "description": "This quiz has various questions about different networking concepts & technologies."
     },
     {
         "friendly_name": "UCLan Trivia",
@@ -27,6 +27,12 @@
         "friendly_name": "Test/Demo Questions",
         "fqn": "testQuiz",
         "questions": 3,
-        "description": "This quiz is only for testing purposes only, it has questions that try to break the app."
+        "description": "This quiz is for testing purposes only, it has questions that try to break the app."
+    },
+    {
+	"friendly_name": "Try and break it",
+	"fqn": "someInvalidQuizFQN",
+	"questions": 3,
+	"description": "Don't use this quiz"
     }
 ]
