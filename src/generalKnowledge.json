@@ -78,5 +78,25 @@
             "8"
         ],
         "correct_answer": "3"
+    },
+    {
+        "question": "Which year was YouTube launched?",
+        "answers": [
+            "2012",
+            "2005",
+            "2006",
+            "2009"
+        ],
+        "correct_answer": "2005"
+    },
+    {
+        "question": "Which year did the Titanic sink?",
+        "answers": [
+            "1930",
+            "1912",
+            "1954",
+            "1896"
+        ],
+        "correct_answer": "1912"
     }
 ]
